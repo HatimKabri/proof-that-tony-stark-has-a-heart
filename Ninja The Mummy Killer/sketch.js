@@ -10,7 +10,7 @@ var ninjaSGrp;
 
 function preload() {
   
-  bg = loadImage("/assets/background.jpg");
+  bg = loadImage("assets/background.jpg");
   
   ninjaw=loadAnimation("ninja 0.png","ninja 1.png","ninja 2.png","ninja 3.png","ninja 4.png","ninja 5.png","ninja 6.png","ninja 7.png");
   
